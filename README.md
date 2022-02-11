@@ -1,4 +1,4 @@
-<h3> 👋 Hi, I’m Nikitha </h3>
+## 👋 Hi, I’m Nikitha
 
 - I’m a Postgraduate Master Specializing in Analytics and an aspiring data scientist with 2 years of experience in software development.
 
