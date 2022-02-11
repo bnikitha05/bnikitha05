@@ -1,6 +1,6 @@
 <h3> 👋 Hi, I’m Nikitha </h3>
 
-- I’m a Postgraduate Master Specializing in Analytics an aspiring data scientist and with 2 years of experience in software development.
+- I’m a Postgraduate Master Specializing in Analytics and an aspiring data scientist with 2 years of experience in software development.
 
 - The journey I have had since venturing into the world of data is what my data science portfolio is about. Each project is a reflection of my self interest and motivation to learn and grow. Hope you find the read fun and insightful! :D
 
