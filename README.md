@@ -22,7 +22,7 @@
 ## Machine Learning :slot_machine:   
 | Title | Article | Repo |
 | --- | --- | --- |    
-| :star: Loan Default prediction using Random Forest and identifying optimal threshold | - | [:link:](https://github.com/bnikitha05/Loan-Default-Prediction) | 
+| :star: Loan Default prediction using classification models and identifying optimal threshold | - | [:link:](https://github.com/bnikitha05/Loan-Default-Prediction) | 
 
 ___
 <a name="visualization"></a>
